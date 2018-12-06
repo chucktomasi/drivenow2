@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Order" max_length="40" name="x_car_drivenow2_order" type="collection">
+        <element label="Car" max_length="32" name="car" reference="x_car_drivenow2_car" type="reference"/>
+        <element label="Customer" max_length="32" name="customer" reference="x_car_drivenow2_customer" type="reference"/>
+        <element label="Order date" max_length="40" name="order_date" type="glide_date_time"/>
+    </element>
+</database>

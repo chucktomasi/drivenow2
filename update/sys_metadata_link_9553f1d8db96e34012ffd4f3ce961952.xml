@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>5323bd98db96e34012ffd4f3ce9619bf</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_car_drivenow2_car">
+    <x_car_drivenow2_car action="INSERT_OR_UPDATE">
+        <make>Land Rover</make>
+        <model>LR4</model>
+        <name>2010 Land Rover LR4</name>
+        <price>17631</price>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-12-06 17:59:07</sys_created_on>
+        <sys_id>5323bd98db96e34012ffd4f3ce9619bf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-12-06 17:59:07</sys_updated_on>
+        <year>2010</year>
+    </x_car_drivenow2_car>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-12-06 17:59:48</sys_created_on>
+        <sys_id>9553f1d8db96e34012ffd4f3ce961952</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2010 Land Rover LR4</sys_name>
+        <sys_package display_value="DriveNow2" source="x_car_drivenow2">c3d23198db96e34012ffd4f3ce9619af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DriveNow2">c3d23198db96e34012ffd4f3ce9619af</sys_scope>
+        <sys_update_name>sys_metadata_link_9553f1d8db96e34012ffd4f3ce961952</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-12-06 17:59:48</sys_updated_on>
+        <tablename>x_car_drivenow2_car</tablename>
+    </sys_metadata_link>
+</record_update>

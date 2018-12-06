@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Customer" max_length="40" name="x_car_drivenow2_customer" type="collection">
+        <element label="Birth date" max_length="40" name="birth_date" type="glide_date"/>
+        <element label="Credit score" max_length="40" name="credit_score" type="integer"/>
+        <element label="First name" max_length="40" name="first_name" type="string"/>
+        <element label="Income" max_length="20" name="income" type="currency"/>
+        <element label="Last name" max_length="40" name="last_name" type="string"/>
+        <element display="true" label="Name" max_length="100" name="name" type="string"/>
+        <element label="Phone" max_length="40" name="phone" type="phone_number_e164"/>
+        <element label="Social" max_length="40" name="social" type="string"/>
+    </element>
+</database>

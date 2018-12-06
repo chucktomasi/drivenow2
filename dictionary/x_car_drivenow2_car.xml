@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Car" max_length="40" name="x_car_drivenow2_car" type="collection">
+        <element label="Make" max_length="40" name="make" type="string"/>
+        <element label="Model" max_length="40" name="model" type="string"/>
+        <element display="true" label="Name" max_length="100" name="name" type="string"/>
+        <element label="Price" max_length="20" name="price" type="currency"/>
+        <element label="Year" max_length="40" name="year" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>8c33fd98db96e34012ffd4f3ce961966</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_car_drivenow2_car">
+    <x_car_drivenow2_car action="INSERT_OR_UPDATE">
+        <make>Ford</make>
+        <model>Mustang</model>
+        <name>2011 Ford Mustang</name>
+        <price>10238</price>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-12-06 17:59:10</sys_created_on>
+        <sys_id>8c33fd98db96e34012ffd4f3ce961966</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-12-06 17:59:10</sys_updated_on>
+        <year>2011</year>
+    </x_car_drivenow2_car>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-12-06 18:01:20</sys_created_on>
+        <sys_id>33a33dd8db96e34012ffd4f3ce96194f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2011 Ford Mustang</sys_name>
+        <sys_package display_value="DriveNow2" source="x_car_drivenow2">c3d23198db96e34012ffd4f3ce9619af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DriveNow2">c3d23198db96e34012ffd4f3ce9619af</sys_scope>
+        <sys_update_name>sys_metadata_link_33a33dd8db96e34012ffd4f3ce96194f</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-12-06 18:01:20</sys_updated_on>
+        <tablename>x_car_drivenow2_car</tablename>
+    </sys_metadata_link>
+</record_update>
