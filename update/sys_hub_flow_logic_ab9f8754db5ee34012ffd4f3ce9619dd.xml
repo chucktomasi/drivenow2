@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow_logic">
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">279f8754db5ee34012ffd4f3ce9619dc</block>
+        <comment/>
+        <connected_to/>
+        <decision_table display_value="Finance Order Approval">88888b3edb75a7005b3057935e961982</decision_table>
+        <decision_table_inputs/>
+        <decision_table_inputs/>
+        <display_text/>
+        <flow display_value="Order flow">f94e8714db5ee34012ffd4f3ce9619a3</flow>
+        <inputs/>
+        <logic_definition display_value="Make a decision">578e90270b2313009002cab937673a7d</logic_definition>
+        <order>1</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-12-07 00:43:00</sys_created_on>
+        <sys_id>ab9f8754db5ee34012ffd4f3ce9619dd</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="DriveNow2" source="x_car_drivenow2">c3d23198db96e34012ffd4f3ce9619af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DriveNow2">c3d23198db96e34012ffd4f3ce9619af</sys_scope>
+        <sys_update_name>sys_hub_flow_logic_ab9f8754db5ee34012ffd4f3ce9619dd</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-12-07 00:43:19</sys_updated_on>
+        <ui_id>d4607234-410e-49dc-b317-abae38bc45d6</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=ab9f8754db5ee34012ffd4f3ce9619dd"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>ab9f8754db5ee34012ffd4f3ce9619dd</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-12-07 00:43:00</sys_created_on>
+        <sys_id>239f8754db5ee34012ffd4f3ce9619f1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-12-07 00:43:00</sys_updated_on>
+        <value/>
+        <variable display_value="">eeb88f3edb75a7005b3057935e9619cf</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>ab9f8754db5ee34012ffd4f3ce9619dd</document_key>
+        <order>10</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-12-07 00:43:00</sys_created_on>
+        <sys_id>6b9f8754db5ee34012ffd4f3ce9619ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-12-07 00:43:00</sys_updated_on>
+        <value>88888b3edb75a7005b3057935e961982</value>
+        <variable display_value="">a9a0bc2b0b2313009002cab937673ac6</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>ab9f8754db5ee34012ffd4f3ce9619dd</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-12-07 00:43:00</sys_created_on>
+        <sys_id>6f9f8754db5ee34012ffd4f3ce9619f0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-12-07 00:43:00</sys_updated_on>
+        <value/>
+        <variable display_value="">d198cb3edb75a7005b3057935e9619b0</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>ab9f8754db5ee34012ffd4f3ce9619dd</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-12-07 00:43:00</sys_created_on>
+        <sys_id>a79f8754db5ee34012ffd4f3ce9619ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-12-07 00:43:00</sys_updated_on>
+        <value>1</value>
+        <variable display_value="">346b30a30b6313009002cab937673a5e</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>ab9f8754db5ee34012ffd4f3ce9619dd</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-12-07 00:43:00</sys_created_on>
+        <sys_id>e39f8754db5ee34012ffd4f3ce9619ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-12-07 00:43:00</sys_updated_on>
+        <value>decision_answer</value>
+        <variable display_value="">4cbdbf94c35823002841b63b12d3aeb6</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=ab9f8754db5ee34012ffd4f3ce9619dd"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>u_credit_score</field>
+        <id>ab9f8754db5ee34012ffd4f3ce9619dd</id>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-12-07 00:43:00</sys_created_on>
+        <sys_id>eb9f8754db5ee34012ffd4f3ce9619f0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-12-07 00:43:00</sys_updated_on>
+        <table>var__m_sys_decision_input_88888b3edb75a7005b3057935e961982</table>
+        <value>{{Created or Updated_1.current.customer.credit_score}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>u_dob</field>
+        <id>ab9f8754db5ee34012ffd4f3ce9619dd</id>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-12-07 00:43:00</sys_created_on>
+        <sys_id>679f8754db5ee34012ffd4f3ce9619f0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-12-07 00:43:00</sys_updated_on>
+        <table>var__m_sys_decision_input_88888b3edb75a7005b3057935e961982</table>
+        <value>{{Created or Updated_1.current.customer.birth_date}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>u_vehicle_price</field>
+        <id>ab9f8754db5ee34012ffd4f3ce9619dd</id>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-12-07 00:43:00</sys_created_on>
+        <sys_id>2b9f8754db5ee34012ffd4f3ce9619f0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-12-07 00:43:00</sys_updated_on>
+        <table>var__m_sys_decision_input_88888b3edb75a7005b3057935e961982</table>
+        <value>{{Created or Updated_1.current.car.price}}</value>
+    </sys_element_mapping>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_flow_record_trigger">
+    <sys_flow_record_trigger action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="x_car_drivenow2_order">stateCHANGESTO11<item endquery="false" field="state" goto="false" newquery="false" operator="CHANGESTO" or="false" value="11"/>
+        </condition>
+        <name/>
+        <on_delete>false</on_delete>
+        <on_insert>true</on_insert>
+        <on_update>true</on_update>
+        <run_when_setting>both</run_when_setting>
+        <run_when_user_list/>
+        <run_when_user_setting>any</run_when_user_setting>
+        <sys_class_name>sys_flow_record_trigger</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-12-07 00:43:17</sys_created_on>
+        <sys_id>a3af0f54db5ee34012ffd4f3ce9619c3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="DriveNow2" source="x_car_drivenow2">c3d23198db96e34012ffd4f3ce9619af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DriveNow2">c3d23198db96e34012ffd4f3ce9619af</sys_scope>
+        <sys_update_name>sys_flow_record_trigger_a3af0f54db5ee34012ffd4f3ce9619c3</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-12-07 00:43:17</sys_updated_on>
+        <table>x_car_drivenow2_order</table>
+    </sys_flow_record_trigger>
+</record_update>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="System Import Sets">import_sets</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Imp Tmpl X Car Drivenow2 Order</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>u_imp_tmpl_x_car_drivenow2_order</name>
+        <order>1100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-12-07 00:29:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>117c8790db5ee34012ffd4f3ce9619c8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Imp Tmpl X Car Drivenow2 Order</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="DriveNow2" source="x_car_drivenow2">c3d23198db96e34012ffd4f3ce9619af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DriveNow2">c3d23198db96e34012ffd4f3ce9619af</sys_scope>
+        <sys_update_name>sys_app_module_117c8790db5ee34012ffd4f3ce9619c8</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-12-07 00:29:12</sys_updated_on>
+        <timeline_page/>
+        <title>Imp Tmpl X Car Drivenow2 Order</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

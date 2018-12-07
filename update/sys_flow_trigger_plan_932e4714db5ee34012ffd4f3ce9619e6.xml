@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_flow_trigger_plan">
+    <sys_flow_trigger_plan action="INSERT_OR_UPDATE">
+        <binding_strategy>com.snc.process_flow.engine.binding.OncePerRecord</binding_strategy>
+        <plan/>
+        <plan_id>bf1dc7d0db5ee34012ffd4f3ce961965</plan_id>
+        <snapshot>322e4714db5ee34012ffd4f3ce961969</snapshot>
+        <sys_class_name>sys_flow_trigger_plan</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-12-07 00:36:43</sys_created_on>
+        <sys_id>932e4714db5ee34012ffd4f3ce9619e6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>df2e4714db5ee34012ffd4f3ce9619e3</sys_name>
+        <sys_package display_value="DriveNow2" source="x_car_drivenow2">c3d23198db96e34012ffd4f3ce9619af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DriveNow2">c3d23198db96e34012ffd4f3ce9619af</sys_scope>
+        <sys_update_name>sys_flow_trigger_plan_932e4714db5ee34012ffd4f3ce9619e6</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-12-07 00:36:43</sys_updated_on>
+        <trigger display_value="">df2e4714db5ee34012ffd4f3ce9619e3</trigger>
+    </sys_flow_trigger_plan>
+</record_update>

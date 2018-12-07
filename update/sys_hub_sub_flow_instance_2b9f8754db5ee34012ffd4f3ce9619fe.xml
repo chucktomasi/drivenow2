@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_sub_flow_instance">
+    <sys_hub_sub_flow_instance action="INSERT_OR_UPDATE">
+        <comment/>
+        <display_text/>
+        <flow display_value="Order flow">f94e8714db5ee34012ffd4f3ce9619a3</flow>
+        <inputs/>
+        <inputs/>
+        <order>3.1</order>
+        <parent_ui_id>ca31694a-d670-4b12-a003-ac3e7d9ccb67</parent_ui_id>
+        <subflow display_value="Finance Order Process">40766635db35e30012ffd4f3ce9619c7</subflow>
+        <sys_class_name>sys_hub_sub_flow_instance</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-12-07 00:43:01</sys_created_on>
+        <sys_id>2b9f8754db5ee34012ffd4f3ce9619fe</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="DriveNow2" source="x_car_drivenow2">c3d23198db96e34012ffd4f3ce9619af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DriveNow2">c3d23198db96e34012ffd4f3ce9619af</sys_scope>
+        <sys_update_name>sys_hub_sub_flow_instance_2b9f8754db5ee34012ffd4f3ce9619fe</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-12-07 00:43:19</sys_updated_on>
+        <ui_id>bed74650-d5e9-4fda-b594-1cac9136cbd6</ui_id>
+    </sys_hub_sub_flow_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=2b9f8754db5ee34012ffd4f3ce9619fe"/>
+    <sys_element_mapping action="delete_multiple" query="id=2b9f8754db5ee34012ffd4f3ce9619fe"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>car_name</field>
+        <id>2b9f8754db5ee34012ffd4f3ce9619fe</id>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-12-07 00:43:08</sys_created_on>
+        <sys_id>e5af0b54db5ee34012ffd4f3ce9619a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-12-07 00:43:08</sys_updated_on>
+        <table>var__m_sys_hub_flow_input_40766635db35e30012ffd4f3ce9619c7</table>
+        <value>{{Created or Updated_1.current.car.name}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>car_name</field>
+        <id>2b9f8754db5ee34012ffd4f3ce9619fe</id>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-12-07 00:43:01</sys_created_on>
+        <sys_id>e79fc754db5ee34012ffd4f3ce961904</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-12-07 00:43:01</sys_updated_on>
+        <table>var__m_sys_hub_flow_input_f6a8a5a7db352b005b3057935e961952</table>
+        <value>{{Created or Updated_1.current.car.name}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>price</field>
+        <id>2b9f8754db5ee34012ffd4f3ce9619fe</id>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-12-07 00:43:08</sys_created_on>
+        <sys_id>a9af0b54db5ee34012ffd4f3ce9619a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-12-07 00:43:08</sys_updated_on>
+        <table>var__m_sys_hub_flow_input_40766635db35e30012ffd4f3ce9619c7</table>
+        <value>{{Created or Updated_1.current.car.price}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>price</field>
+        <id>2b9f8754db5ee34012ffd4f3ce9619fe</id>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-12-07 00:43:01</sys_created_on>
+        <sys_id>ab9fc754db5ee34012ffd4f3ce961904</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-12-07 00:43:01</sys_updated_on>
+        <table>var__m_sys_hub_flow_input_f6a8a5a7db352b005b3057935e961952</table>
+        <value>{{Created or Updated_1.current.car.price}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ssn</field>
+        <id>2b9f8754db5ee34012ffd4f3ce9619fe</id>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-12-07 00:43:08</sys_created_on>
+        <sys_id>6daf0b54db5ee34012ffd4f3ce9619a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-12-07 00:43:08</sys_updated_on>
+        <table>var__m_sys_hub_flow_input_40766635db35e30012ffd4f3ce9619c7</table>
+        <value>{{Created or Updated_1.current.customer.social}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ssn</field>
+        <id>2b9f8754db5ee34012ffd4f3ce9619fe</id>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-12-07 00:43:01</sys_created_on>
+        <sys_id>6f9fc754db5ee34012ffd4f3ce961904</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-12-07 00:43:01</sys_updated_on>
+        <table>var__m_sys_hub_flow_input_f6a8a5a7db352b005b3057935e961952</table>
+        <value>{{Created or Updated_1.current.customer.social}}</value>
+    </sys_element_mapping>
+</record_update>
