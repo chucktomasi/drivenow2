@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="table_name" label="Table Name" language="en" table="var__m_sys_hub_flow_input_c10feeecdbd6274012ffd4f3ce961974">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>table_name</element>
+            <help/>
+            <hint/>
+            <label>Table Name</label>
+            <language>en</language>
+            <name>var__m_sys_hub_flow_input_c10feeecdbd6274012ffd4f3ce961974</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>chuck.tomasi</sys_created_by>
+            <sys_created_on>2018-12-07 17:05:57</sys_created_on>
+            <sys_id>9a90f260db1a274012ffd4f3ce9619e7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Table Name</sys_name>
+            <sys_package display_value="DriveNow2" source="x_car_drivenow2">c3d23198db96e34012ffd4f3ce9619af</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DriveNow2">c3d23198db96e34012ffd4f3ce9619af</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_c10feeecdbd6274012ffd4f3ce961974_table_name_en</sys_update_name>
+            <sys_updated_by>chuck.tomasi</sys_updated_by>
+            <sys_updated_on>2018-12-07 17:05:57</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

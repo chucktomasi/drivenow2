@@ -14,7 +14,7 @@
         <master>true</master>
         <name>Order flow</name>
         <outputs/>
-        <parent_flow display_value="Order flow">f94e8714db5ee34012ffd4f3ce9619a3</parent_flow>
+        <parent_flow/>
         <remote_trigger_id/>
         <run_as>user</run_as>
         <sc_callable>false</sc_callable>

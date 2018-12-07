@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>false</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>order_flow</internal_name>
+        <label_cache>[{"name":"Created or Updated_1.current.customer.birth_date","label":"Trigger➛Order Record➛Customer➛Birth date","reference":"","reference_display":"Birth date","type":"glide_date","base_type":"glide_date","parent_table_name":"x_car_drivenow2_customer","column_name":"birth_date"},{"name":"Created or Updated_1.current.car.price","label":"Trigger➛Order Record➛Car➛Price","reference":"","reference_display":"Price","type":"currency","base_type":"currency","parent_table_name":"x_car_drivenow2_car","column_name":"price"},{"name":"Created or Updated_1.current.customer.credit_score","label":"Trigger➛Order Record➛Customer➛Credit score","reference":"","reference_display":"Credit score","type":"integer","base_type":"integer","parent_table_name":"x_car_drivenow2_customer","column_name":"credit_score"},{"name":"19f1d608-bfb7-4172-9370-8762fb30b677.answer","label":"1➛Decision Answer Record","reference":"decision_answer","reference_display":"Decision Answer Record","type":"reference","base_type":"reference"},{"name":"df02ac35-2263-460e-b65d-dffee6270ce0.approval_state","label":"1.3.1➛Approval State","reference_display":"Approval State","type":"choice","base_type":"choice"},{"name":"Created or Updated_1.current","label":"Trigger➛Order Record","reference":"x_car_drivenow2_order","reference_display":"Order","type":"reference","base_type":"reference"},{"name":"{{static.4ae0e1f6db71a7005b3057935e961911}}","label":"Car Order Approvals","reference":"sys_user_group","type":"reference","base_type":"reference"},{"name":"Created or Updated_1.current.approval","label":"Trigger➛Order Record➛Approval","reference":"","reference_display":"Approval","type":"choice","base_type":"choice","parent_table_name":"x_car_drivenow2_order","column_name":"approval"},{"name":"Created or Updated_1.current.customer","label":"Trigger➛Order Record➛Customer","reference":"x_car_drivenow2_customer","reference_display":"Customer","type":"reference","base_type":"reference","parent_table_name":"x_car_drivenow2_order","column_name":"customer"},{"name":"Created or Updated_1.current.car.name","label":"Trigger➛Order Record➛Car➛Name","reference":"","reference_display":"Name","type":"string","base_type":"string","parent_table_name":"x_car_drivenow2_car","column_name":"name"}]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Order flow</name>
+        <outputs/>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-12-07 16:59:03</sys_created_on>
+        <sys_id>c10feeecdbd6274012ffd4f3ce961974</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Order flow</sys_name>
+        <sys_package display_value="DriveNow2" source="x_car_drivenow2">c3d23198db96e34012ffd4f3ce9619af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DriveNow2">c3d23198db96e34012ffd4f3ce9619af</sys_scope>
+        <sys_update_name>sys_hub_flow_c10feeecdbd6274012ffd4f3ce961974</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-12-07 17:05:56</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=c10feeecdbd6274012ffd4f3ce961974"/>
+    <sys_variable_value action="delete_multiple" query="document_key=c10feeecdbd6274012ffd4f3ce961974"/>
+</record_update>

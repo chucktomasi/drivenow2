@@ -14,7 +14,7 @@
         <master>true</master>
         <name>Get credit score</name>
         <outputs/>
-        <parent_flow display_value="Get credit score">bf1dc7d0db5ee34012ffd4f3ce961965</parent_flow>
+        <parent_flow/>
         <remote_trigger_id/>
         <run_as>user</run_as>
         <sc_callable>false</sc_callable>

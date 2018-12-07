@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_details_screen">
+    <sys_sg_details_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item display_value="Orders state = processing">4901f660db1a274012ffd4f3ce961917</data_item>
+        <description/>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <icon display_value="map">45613e60db1a274012ffd4f3ce9619af</icon>
+        <item_view display_value="Processing orders detail item view">8961be60db1a274012ffd4f3ce961977</item_view>
+        <name>Details</name>
+        <order>10</order>
+        <parent>4961be60db1a274012ffd4f3ce9619cb</parent>
+        <parent_table>sys_sg_map_screen</parent_table>
+        <roles_override/>
+        <sys_class_name>sys_sg_details_screen</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-12-07 17:09:26</sys_created_on>
+        <sys_id>5161be60db1a274012ffd4f3ce96197b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Details</sys_name>
+        <sys_package display_value="DriveNow2" source="x_car_drivenow2">c3d23198db96e34012ffd4f3ce9619af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DriveNow2">c3d23198db96e34012ffd4f3ce9619af</sys_scope>
+        <sys_update_name>sys_sg_details_screen_5161be60db1a274012ffd4f3ce96197b</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-12-07 17:09:26</sys_updated_on>
+    </sys_sg_details_screen>
+</record_update>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>false</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>credit_check_flow</internal_name>
+        <label_cache>[{"name":"4acdd452-ff5f-480a-9289-a02c47f3a61f.credit_score","label":"1➛Credit score","type":"string","base_type":"string"},{"name":"Created or Updated_1.current.social","label":"Trigger➛Customer Record➛Social","reference":"","reference_display":"Social","type":"string","base_type":"string","parent_table_name":"x_car_drivenow2_customer","column_name":"social"},{"name":"21659b9a-07f5-4563-8581-7c1f74c8a699.record","label":"2➛Record","reference_display":"Record","type":"document_id","base_type":"document_id"},{"name":"21659b9a-07f5-4563-8581-7c1f74c8a699.table_name","label":"2➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"Created or Updated_1.current","label":"Trigger➛Customer Record","reference":"x_car_drivenow2_customer","reference_display":"Customer","type":"reference","base_type":"reference"}]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Credit Check Flow</name>
+        <outputs/>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-12-07 16:55:37</sys_created_on>
+        <sys_id>7a3ea6ecdbd6274012ffd4f3ce961929</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Credit Check Flow</sys_name>
+        <sys_package display_value="DriveNow2" source="x_car_drivenow2">c3d23198db96e34012ffd4f3ce9619af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DriveNow2">c3d23198db96e34012ffd4f3ce9619af</sys_scope>
+        <sys_update_name>sys_hub_flow_7a3ea6ecdbd6274012ffd4f3ce961929</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-12-07 16:58:17</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=7a3ea6ecdbd6274012ffd4f3ce961929"/>
+    <sys_variable_value action="delete_multiple" query="document_key=7a3ea6ecdbd6274012ffd4f3ce961929"/>
+</record_update>

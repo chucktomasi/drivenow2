@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cb_design_topic">
+    <sys_cb_design_topic action="INSERT_OR_UPDATE">
+        <compiled_topic display_value="_PRVW__9f7216280a962740c2fbf9de828c03bc">9b721628db96274012ffd4f3ce9619bd</compiled_topic>
+        <design_definition>{"type":"FlowTopic","triggers":[{"type":"Trigger","name":"e609fabeaea14e4d8a663cdd3d9a6b48","triggerType":"request","applicability":{"type":"Applicability","mode":"script","value":""},"id":"e609fabeaea14e4d8a663cdd3d9a6b48"}],"goals":[{"name":"primary","trigger_id":"e609fabeaea14e4d8a663cdd3d9a6b48","nodes":[{"type":"StartGoal","goal_id":"0da62688fff44be4bdae352af7c873b2","greeting_msg":{"type":"String","mode":"string","value":""},"id":"c52f9fe06df14f6e9e0822d96b8a13ed","name":"Start"},{"type":"TerminateGoal","goal_id":"0da62688fff44be4bdae352af7c873b2","confirmation_msg":{"type":"String","mode":"string","value":""},"id":"93ca09f002c74b29abe4a4793aefae95","name":"End"}],"edges":[{"type":"Edge","source_node_id":"c52f9fe06df14f6e9e0822d96b8a13ed","target_node_id":"93ca09f002c74b29abe4a4793aefae95","id":"1dcf9b5f5d3f4df5ba06367553a75a1f"}],"id":"0da62688fff44be4bdae352af7c873b2"}],"script_variables":[],"glide_variables":[],"applicability":{"type":"Applicability","mode":"script","value":""},"roles":[],"scope":"c9af039fdb42634012ffd4f3ce961966","id":"333d9b9bdb82634012ffd4f3ce961923","name":"_PRVW__9f7216280a962740c2fbf9de828c03bc","key_phrases":["Inventory Dealer Lookup","cars"]}</design_definition>
+        <design_topic_id>333d9b9bdb82634012ffd4f3ce961923</design_topic_id>
+        <name>_PRVW__9f7216280a962740c2fbf9de828c03bc</name>
+        <sys_class_name>sys_cb_design_topic</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-12-07 14:54:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>9f725628db96274012ffd4f3ce9619c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FlowTopic</sys_name>
+        <sys_package display_value="DriveNow2" source="x_car_drivenow2">c3d23198db96e34012ffd4f3ce9619af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DriveNow2">c3d23198db96e34012ffd4f3ce9619af</sys_scope>
+        <sys_update_name>sys_cb_design_topic_9f725628db96274012ffd4f3ce9619c5</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-12-07 14:54:24</sys_updated_on>
+        <type>FlowTopic</type>
+    </sys_cb_design_topic>
+</record_update>
